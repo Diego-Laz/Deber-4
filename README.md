@@ -72,7 +72,13 @@ https://www.youtube.com/watch?v=1Ki0WfCFnVE
 
 https://www.youtube.com/watch?v=tl6oL5E65rE
 
+https://www.youtube.com/watch?v=EkyDTVc9Pjs
+
 CONCLUSIONES
+
+-Durante la tarea se puso en practica lo anteriormente aprendido en circuitos en serie- paralelo o en los ya llamados circuitos mixtos, aprendiendo como encontrar fallas, utilización del voltimetro, uso de divisores de voltaje y varios otros temas que se usaran en estos circuitos 
+
+-En el presente tema se hablaría sobre teoremas en los circuitos, asi aprendiendo a describir las caraceristicas de los circuitos asi como realizar conversiones de los mismos, junto con diversos teoremas como los de Thevenin y Norton, simplificaremos los circuitos para su futuro análisis
 
 BIBLIOGRAFÍA
 
