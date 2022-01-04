@@ -68,8 +68,11 @@ capitulo 8
 
 VIDEOS
 
-CONCLUSIONES
+https://www.youtube.com/watch?v=1Ki0WfCFnVE
 
+https://www.youtube.com/watch?v=tl6oL5E65rE
+
+CONCLUSIONES
 
 BIBLIOGRAFÍA
 
